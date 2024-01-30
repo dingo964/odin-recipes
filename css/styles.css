@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(69, 69, 69);
+  color: white;
+}
+
+a {
+    color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  background-color: rgb(54, 51, 51);
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.impact-font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+#page-links {
+    color: white;
+    font-size: 30px;
+}
