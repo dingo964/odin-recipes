@@ -22,14 +22,23 @@ h1 {
 }
 
 .title {
-    font-family: Palatino, Georgia, 'Times New Roman', Times, serif;
+  font-size: 64px;
+  font-style: italic;
+}
+
+.georgia-font {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.links {
+  display: inline-block;
+  font-size: 25px;
+  margin: 0px 10px;
+  padding: 20px;
+  border: 1px solid white;
+  text-align: left;
 }
 
 .center {
     text-align: center;
-}
-
-#page-links {
-    color: white;
-    font-size: 30px;
 }
