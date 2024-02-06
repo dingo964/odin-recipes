@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(69, 69, 69);
+  background-color: black;
   color: white;
 }
 
@@ -15,15 +15,14 @@ img {
 }
 
 h1 {
-  background-color: rgb(54, 51, 51);
   color: white;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Helvetica, sans-serif;
   text-align: center;
   font-size: 50px;
 }
 
-.impact-font {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.title {
+    font-family: Palatino, Georgia, 'Times New Roman', Times, serif;
 }
 
 .center {
