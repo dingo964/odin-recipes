@@ -14,13 +14,6 @@ img {
   width: 50%;
 }
 
-h1 {
-  color: white;
-  font-family: Helvetica, sans-serif;
-  text-align: center;
-  font-size: 50px;
-}
-
 .title {
   font-size: 64px;
   font-style: italic;
@@ -28,6 +21,18 @@ h1 {
 
 .georgia-font {
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lucida-font {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.monospace-font {
+  font-family: monospace;
+}
+
+.font-size-18-px {
+  font-size: 18px;
 }
 
 .links {
@@ -41,4 +46,23 @@ h1 {
 
 .center {
     text-align: center;
+}
+
+.description-head {
+  margin-top: 35px;
+  margin-bottom: 0px;
+}
+
+.description {
+  width: 55%;
+  margin: 10px auto;
+  margin-bottom: 25px;
+}
+
+.container {
+  border: 1px solid white;
+  display: block;
+  padding: 10px 20px;
+  width: 50%;
+  margin: 0 auto;
 }
